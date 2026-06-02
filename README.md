@@ -1,6 +1,6 @@
 # Static Force Analysis and Manipulability
 
-This repository contains the mathematical modeling, kinematic verification, and force manipulability mapping software developed for a 6-axis agricultural robotic manipulator. This codebase serves as an appendix for our Bachelor Thesis (2026) at Aarhus University.
+This repository contains the mathematical modeling, kinematic verification, and force manipulability mapping software developed for an agricultural robotic manipulator. This codebase serves as an appendix for our Bachelor Thesis (2026) at Aarhus University.
 
 The primary objective of this software framework is to analyze and map the manipulator's pose-dependent ability to exert vertical extraction forces ($f_z$) required to remove weeds from soil without stalling the joint actuators.
 
